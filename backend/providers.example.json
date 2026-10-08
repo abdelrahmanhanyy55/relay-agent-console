@@ -3,7 +3,7 @@
     "openrouter": {
       "baseUrl": "https://openrouter.ai/api/v1",
       "apiKeyEnv": "OPENROUTER_API_KEY",
-      "defaultModel": "openai/gpt-5.4",
+      "modelsEndpoint": "/models",
       "appName": "Relay Agent Console"
     }
   }
