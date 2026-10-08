@@ -1,0 +1,7 @@
+# Local secrets and environment-specific configuration
+backend/.env
+backend/mcp.servers.json
+.vercel
+node_modules
+.DS_Store
+
